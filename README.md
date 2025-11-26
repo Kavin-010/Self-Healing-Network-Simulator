@@ -1,7 +1,5 @@
 # Self-Healing-Network-Simulator
 
-Self-Healing Network Simulator
-
 This project is a reinforcement learning–based simulation that models how a network can detect, respond to, and recover from cyberattacks. It uses Q-learning to decide actions such as observing the network, blocking infected nodes, healing compromised nodes, and rerouting connections. The simulation also visualizes the network state, infection spread, rewards, and action patterns in real time.
 
 ## How it works
